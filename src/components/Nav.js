@@ -17,7 +17,7 @@ const Nav = (props) => {
             </WarpLink>
             <WarpSocial>
                 <a href="https://soundcloud.com/tamon-suzuki" className="link-social" target="_blank"><Logo src={sd}/></a>
-                <a href="https://www.facebook.com/tamon.suzuki.7" className="link-social" target="_blank"><Logo src={fb}/></a>
+                <a href="https://github.com/monchansuzuki" className="link-social" target="_blank"><Logo src={fb}/></a>
                 <a href="https://www.linkedin.com/in/tamon-suzuki-8596a211b/" className="link-social" target="_blank"><Logo src={li}/></a>
             </WarpSocial>
         </MenuWarp>
